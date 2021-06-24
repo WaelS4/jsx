@@ -1,0 +1,12 @@
+.title {
+  font-size: large;
+  text-align: center;
+}
+.red {
+  color: red;
+}
+.image {
+  float: left;
+  width: 50%;
+}
+
